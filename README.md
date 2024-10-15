@@ -1,2 +1,2 @@
 # ConnectFour
-ConnectFour Game , For Fun!
+ConnectFour Game with Blazor ,Just For Fun!
